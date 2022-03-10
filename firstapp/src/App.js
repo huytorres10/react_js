@@ -1,6 +1,5 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Car from "./Car";
 import Xe from "./Xe";
 
 function App() {
@@ -16,6 +15,7 @@ function App() {
 				</a>
 				<Xe color="red" value="Day la xe mau do" />
 				<Xe color="blue" value="Day la xe mau xanh" />
+				<Xe color="white" value="Day la xe mau trang" />
 			</header>
 		</div>
 	);
