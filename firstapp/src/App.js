@@ -14,8 +14,8 @@ function App() {
 				<a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
 					Learn React 123
 				</a>
-				<Car />
-				<Xe />
+				<Xe color="red" value="Day la xe mau do" />
+				<Xe color="blue" value="Day la xe mau xanh" />
 			</header>
 		</div>
 	);
