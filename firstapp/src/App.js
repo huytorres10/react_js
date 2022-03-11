@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Xe from "./Xe";
+import MyForm from "./MyForm";
 
 function App() {
 	return (
@@ -16,6 +17,7 @@ function App() {
 				<Xe color="red" value="Day la xe mau do" />
 				{/* <Xe color="blue" value="Day la xe mau xanh" />
 				<Xe color="white" value="Day la xe mau trang" /> */}
+				<MyForm />
 			</header>
 		</div>
 	);
